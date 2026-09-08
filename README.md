@@ -47,20 +47,6 @@ Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos 
 
 ---
 
-# 🧩 En lo que me estoy especializando
-
-Mi objetivo es crecer como desarrollador en el área de:
-
-- **Backend con Java y Spring Boot**
-- **Diseño y desarrollo de APIs REST**
-- **Persistencia de datos con JPA/Hibernate**
-- **Modelado y diseño de bases de datos**
-- **Buenas prácticas, código limpio y arquitectura**
-- **Integración backend + frontend**
-- **Entornos de trabajo profesionales con Git**
-
----
-
 # 🤝 Conecta conmigo
 
 Puedes explorar mis repositorios para ver mi evolución, mis prácticas y los proyectos en los que voy trabajando.
